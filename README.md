@@ -1,3 +1,3 @@
 - 👋 Hi, I’m @swissarmysam
 - 📫 Reach me at [rampling.dev](https://rampling.dev)
-- 👨🏻‍💻 Graduate Developer @ Smarter Technologies
+- 👨🏻‍💻 Full Stack Developer @ Smarter Technologies
